@@ -1,0 +1,66 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Sr.Gatinho",
+      "email": "ani@mal.com",
+      "senha": "auau123"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Costela",
+      "tipo": "Gato",
+      "raca": "Siamês",
+      "vacina": "vacinado (covidadinho-23)",
+      "imagemUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBgOVk00Ja-bLjIFN-Gbz3QtrCK5Q4r6j_KO-o02wgoM5h6w56bngIfgEUqJJl32tEvQIDX5hgABJI1ocEoYHK-g",
+      "id": "e263"
+    },
+    {
+      "id": "5e8b",
+      "nome": "de",
+      "tipo": "Gato",
+      "raca": "pretinho",
+      "vacina": "covidado-24",
+      "imagemUrl": "https://static.wixstatic.com/media/1cbe41_1db56ff59200428f99b87077f3b9f8dc~mv2_d_2304_1728_s_2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/1cbe41_1db56ff59200428f99b87077f3b9f8dc~mv2_d_2304_1728_s_2.jpg"
+    },
+    {
+      "id": "325e",
+      "nome": "Adão",
+      "tipo": "Gato",
+      "raca": "laranjinha endiabrado",
+      "vacina": "não vacinado (covidado-25)",
+      "imagemUrl": "https://i.redd.it/hzoyubexrdyb1.jpg"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Cachorro"
+    },
+    {
+      "id": "2",
+      "nome": "Gato"
+    },
+    {
+      "id": "3",
+      "nome": "Cavalo"
+    },
+    {
+      "id": "4",
+      "nome": "Camaleão"
+    },
+    {
+      "id": "5",
+      "nome": "Coruja"
+    },
+    {
+      "id": "6",
+      "nome": "Arara"
+    },
+    {
+      "id": "7",
+      "nome": "Peixe"
+    }
+  ]
+}
